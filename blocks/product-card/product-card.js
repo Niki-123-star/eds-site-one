@@ -3,4 +3,5 @@ export default function product(block) {
   Array.from(block.children).forEach((col) => {
     col.classList.add('my-col');
   });
+  console.log('hi');
 }
