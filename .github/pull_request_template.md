@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--eds-site-one--niki-123-star.aem.live/
-- After: https://dev-branch--eds-site-one--niki-123-star.aem.live/
+- After: https://dev--eds-site-one--niki-123-star.aem.live/
